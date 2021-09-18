@@ -1,0 +1,1 @@
+This is a sample text pushed to github using "git push"
